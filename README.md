@@ -1,2 +1,2 @@
 # ilkDeneme Projesi
-Github'a alışmak için ilk çatallanması önerilen deneme proje.
+Ubuntu'da git kurulumu sonrasi GitHub'a kod aktardim. Bu kod dosyasi Fork'lanmistir.
