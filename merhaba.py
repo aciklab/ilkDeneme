@@ -1,3 +1,3 @@
 #!/usr/bin/python
 
-print "Merhaba Dunya"
+print "Merhaba, Bu Benim Ubuntu ile ilk Git Uygulamam."
